@@ -4,7 +4,7 @@ node {
    stage 'QA'
    echo 'Hello World2'
    stage 'PROD'
-   echo ' Hello kjhh '
+   echo ' Hellhhho kjhh '
     
    
 } 
